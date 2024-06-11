@@ -30,7 +30,7 @@ Always add a description to help the user understand the figure |
 
 Mapa do Site -- Flying Lap F1
 
-![Mapa de Ligaçoes Website Flying Lap F1](images/image08.png)  
+![Mapa de Ligaçoes Website Flying Lap F1](ImagensMarkDown/Site Map.png)  
 Mapa de Ligaçoes Website Flying Lap F1
 
 
