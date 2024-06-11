@@ -11,7 +11,7 @@ _Your sketch_
 
 | | |
 :---: | :---:
-![Mapa de Ligaçoes Website Flying Lap F1](ImagensMarkDown/SiteMap.png)    | ![Mapa de Ligaçoes Website Flying Lap F1](ImagensMarkDown/SiteMap.png)  
+![Mapa de Ligaçoes Website Flying Lap F1](ImagensMarkDown/Desenho1.jpg)    | ![Mapa de Ligaçoes Website Flying Lap F1](ImagensMarkDown/Desenho2.jpg)  
 Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
 
 
