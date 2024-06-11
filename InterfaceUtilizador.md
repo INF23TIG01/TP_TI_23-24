@@ -1,6 +1,6 @@
 # Interface do Utilizador
 
-_Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Describe your "Mobile first" approach. Describe how the information is organized in the pages._ 
+_Nesta página, irei descrever como organizei as informações no site. Além disso, demonstrarei através de desenhos de planejamento como foi pensada a sua estrutura e a organização das páginas._ 
 
 ## Interface e Funções
 _Add here your creative process results using sketchs or wireframes (or both)_
