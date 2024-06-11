@@ -7,7 +7,7 @@ _Add here your creative process results using sketchs or wireframes (or both)_
 
 ### Desenhos
 
-_Your sketch_
+_Desenhos de Planeamento do Site_
 
 | | |
 :---: | :---:
