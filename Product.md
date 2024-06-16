@@ -23,10 +23,9 @@ _Show here how you have fullfilled the miminum required objectives._
 
 Read [Creating a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to understand how to link or embed lines of code in markdown.
 
-HTML Minimum requirements (usage of)
 | Requirement | Usage Example |
 | :---: | :---: |
-| Table |       |
+| Table |  [Link][https://github.com/inf23tig01/TP_TI_23-24/blob/c557e332d580e61d1bb44e64762145f6608ca951/Website_inf23tig01/calendario.html#L45]     |
 | List |  [Link][https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30]  |
 | Nested List |       |
 | Highlight | ``` <em>paragraph</em> ```[Link](https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11) |
