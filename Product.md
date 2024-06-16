@@ -27,7 +27,7 @@ HTML Minimum requirements (usage of)
 | Requirement | Usage Example |
 | :---: | :---: |
 | Table |       |
-| List |       |
+| List |  [Link][https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30]  |
 | Nested List |       |
 | Highlight | ``` <em>paragraph</em> ```[Link](https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11) |
 | Image |   https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11    |
