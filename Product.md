@@ -25,15 +25,15 @@ Read [Creating a permanent link to a code snippet](https://docs.github.com/en/ge
 
 | Requirement | Usage Example |
 | :---: | :---: |
-| Table |  [https://github.com/inf23tig01/TP_TI_23-24/blob/c557e332d580e61d1bb44e64762145f6608ca951/Website_inf23tig01/calendario.html#L45]     |
-| List |  [https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30]  |
+| Table |  https://github.com/inf23tig01/TP_TI_23-24/blob/c557e332d580e61d1bb44e64762145f6608ca951/Website_inf23tig01/calendario.html#L45    |
+| List |  https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30 |
 | Highlight |https://github.com/inf23tig01/TP_TI_23-24/blob/9e655059c897253de6e801abe4648af65611c743/Website_inf23tig01/index.html#L58 |
 | Image | https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11    |
 | Figure | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L47-L49      |
-| Figure Caption      | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L93-L96      |
+| Figure Caption| https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L93-L96      |
 | Internal Link | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L23-L30      |
 | External Link |  https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L223-L228     |
-| Form | [(https://github.com/inf23tig01/TP_TI_23-24/blob/68bd596a70ba12897ac3f171bfaaa35461bd61a3/Website_inf23tig01/contactos.html#L62)]  |
+| Form | https://github.com/inf23tig01/TP_TI_23-24/blob/68bd596a70ba12897ac3f171bfaaa35461bd61a3/Website_inf23tig01/contactos.html#L62 |
 
 CSS Minimum requirements (usage of/change of)
 | Requirement | Usage Example |
