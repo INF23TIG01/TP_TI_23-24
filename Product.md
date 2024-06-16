@@ -38,20 +38,20 @@ Read [Creating a permanent link to a code snippet](https://docs.github.com/en/ge
 CSS Minimum requirements (usage of/change of)
 | Requirement | Usage Example |
 | :---: | :---: |
-| Type selector |       |
-| Id selector |       |
-| Class Selector |       |
-| Pseudo-class Selector |       |
-| Attribute Selector |       |
-| Pseudo-element Selector |       |
-| Text style |       |
-| Font style |       |
-| Background style |       |
-| float/position style |       |
-| List style |       |
-| Box element style |       |
-| table style |       |
-| Responsability style |       |
+| Type selector | https://github.com/inf23tig01/TP_TI_23-24/blob/0e2488575eb61f0fd103fb718aac38904d61bd09/Website_inf23tig01/style.css#L24C1-L27C2      |
+| Id selector | https://github.com/inf23tig01/TP_TI_23-24/blob/0e2488575eb61f0fd103fb718aac38904d61bd09/Website_inf23tig01/style.css#L95-L101      |
+| Class Selector | https://github.com/inf23tig01/TP_TI_23-24/blob/0e2488575eb61f0fd103fb718aac38904d61bd09/Website_inf23tig01/style.css#L29-L41   |
+| Pseudo-class Selector | https://github.com/inf23tig01/TP_TI_23-24/blob/0e2488575eb61f0fd103fb718aac38904d61bd09/Website_inf23tig01/style.css#L69-L71      |
+| Attribute Selector | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L928-L938      |
+| Pseudo-element Selector |  https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L940-L943     |
+| Text style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L277-L282      |
+| Font style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L5      |
+| Background style |  https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L24-L25     |
+| float/position style |  https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L873-L878     |
+| List style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L6C1-L6C22      |
+| Box element style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L894-L900      |
+| table style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L693-L700      |
+| Responsability style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L527-L545      |
 
 Other Minimum requirements (location)
 | Requirement | Usage Example |
