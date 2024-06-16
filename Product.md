@@ -1,7 +1,7 @@
-# C3 : Product
+# Product
 
 _Produto: 1º Website Unicamente Portugues Sobre F1_
-## 3.1 Instalation
+## 3.1 Instalação
 
 _Toda A istalaçao foi feita com base numa organização noo github e com recurso a plataforma netlify ._
 
@@ -18,11 +18,7 @@ _A interface grafica esta configurada de certa forma com 6 Menus (Home ; SobreN�
 _Formulario Utilizado na Parte de Contactos valida apenas se detetar que se trata de um email._
 _Exemplo: Se preenchermos so com um ponto não funciona._
 
-## 3.5 Validação dos Ficheiros HTML5 e dCSS3 
-
-_Todos os ficheiros HTML e CSS foram testados com recurso ao validador da W3C._
-
-## 3.6 Detalhes de Implementação
+## 3.5 Detalhes de Implementação
 _Show here how you have fullfilled the miminum required objectives._
 
 Read [Creating a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to understand how to link or embed lines of code in markdown.
@@ -39,7 +35,7 @@ HTML Minimum requirements (usage of)
 | Figure Caption      |       |
 | Internal Link |       |
 | External Link |       |
-| Form |       |
+| Form | ``` <form class="contact-form">  ```  [Link][(https://github.com/inf23tig01/TP_TI_23-24/blob/68bd596a70ba12897ac3f171bfaaa35461bd61a3/Website_inf23tig01/contactos.html#L62)]  |
 
 CSS Minimum requirements (usage of/change of)
 | Requirement | Usage Example |
