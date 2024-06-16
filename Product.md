@@ -25,15 +25,14 @@ Read [Creating a permanent link to a code snippet](https://docs.github.com/en/ge
 
 | Requirement | Usage Example |
 | :---: | :---: |
-| Table |  [Link][https://github.com/inf23tig01/TP_TI_23-24/blob/c557e332d580e61d1bb44e64762145f6608ca951/Website_inf23tig01/calendario.html#L45]     |
-| List |  [Link][https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30]  |
-| Nested List |       |
+| Table |  [https://github.com/inf23tig01/TP_TI_23-24/blob/c557e332d580e61d1bb44e64762145f6608ca951/Website_inf23tig01/calendario.html#L45]     |
+| List |  [https://github.com/inf23tig01/TP_TI_23-24/blob/c0b9cf7bbd94337566f8f5f7cc00211441fe510c/Website_inf23tig01/index.html#L23-L30]  |
 | Highlight | ``` <em>paragraph</em> ```[Link](https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11) |
-| Image |   https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11    |
-| Figure |       |
-| Figure Caption      |       |
-| Internal Link |       |
-| External Link |       |
+| Image | https://github.com/exemploTrabalho/report_inf-ti/blob/aa7b883c6c0da01d3480c941f7bbdcaa1adf0f12/src/index.html#L11    |
+| Figure | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L47-L49      |
+| Figure Caption      | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L93-L96      |
+| Internal Link | https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L23-L30      |
+| External Link |  https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L223-L228     |
 | Form | ``` <form class="contact-form">  ```  [Link][(https://github.com/inf23tig01/TP_TI_23-24/blob/68bd596a70ba12897ac3f171bfaaa35461bd61a3/Website_inf23tig01/contactos.html#L62)]  |
 
 CSS Minimum requirements (usage of/change of)
