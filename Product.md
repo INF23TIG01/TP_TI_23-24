@@ -19,9 +19,7 @@ _Formulario Utilizado na Parte de Contactos valida apenas se detetar que se trat
 _Exemplo: Se preenchermos so com um ponto não funciona._
 
 ## 3.5 Detalhes de Implementação
-_Show here how you have fullfilled the miminum required objectives._
-
-Read [Creating a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to understand how to link or embed lines of code in markdown.
+_HTML._
 
 | Requirement | Usage Example |
 | :---: | :---: |
@@ -35,7 +33,7 @@ Read [Creating a permanent link to a code snippet](https://docs.github.com/en/ge
 | External Link |  https://github.com/inf23tig01/TP_TI_23-24/blob/43f299bb28c72f419f7559efaea1910a976b99de/Website_inf23tig01/index.html#L223-L228     |
 | Form | https://github.com/inf23tig01/TP_TI_23-24/blob/68bd596a70ba12897ac3f171bfaaa35461bd61a3/Website_inf23tig01/contactos.html#L62 |
 
-CSS Minimum requirements (usage of/change of)
+_CSS._
 | Requirement | Usage Example |
 | :---: | :---: |
 | Type selector | https://github.com/inf23tig01/TP_TI_23-24/blob/0e2488575eb61f0fd103fb718aac38904d61bd09/Website_inf23tig01/style.css#L24C1-L27C2      |
@@ -53,8 +51,8 @@ CSS Minimum requirements (usage of/change of)
 | table style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L693-L700      |
 | Responsability style | https://github.com/inf23tig01/TP_TI_23-24/blob/3b4bcfce7107b31fa32edd16dd95064d3b3a3c43/Website_inf23tig01/style.css#L527-L545      |
 
-Other Minimum requirements (location)
+_XML & XSD_
 | Requirement | Usage Example |
 | :---: | :---: |
-| XML file |       |
-| XSD file |       |
+| XML file | https://github.com/inf23tig01/TP_TI_23-24/blob/main/Website_inf23tig01/CalendarioF1.xml      |
+| XSD file |  https://github.com/inf23tig01/TP_TI_23-24/blob/main/Website_inf23tig01/CalendarioF1.xsd     |
